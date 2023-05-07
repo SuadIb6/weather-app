@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(
+    112.1deg,
+    rgb(32, 38, 57) 11.4%,
+    rgb(63, 76, 119) 70.2%
+  );
+}
+
+.container {
+  border: 5px solid white;
+  background: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  max-width: 800px;
+  margin: 20px;
+  padding: 40px 80px;
+}
+.line {
+  border: 2px solid white;
+}
+
+h1 {
+  color: white;
+  font-family: "Courgette", cursive;
+}
+.float-left {
+  color: white;
+  font-family: "Courgette", cursive;
+  font-size: 30px;
+}
+.col-4 {
+  padding: 50px 0;
+  font-family: "Courgette", cursive;
+  position: relative;
+  left: 20px;
+  color: white;
+}
+.col-2 {
+  font-family: "Cookie", cursive;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+.col-6 {
+  position: relative;
+  bottom: 55px;
+  left: 360px;
+  padding: 10px;
+  color: white;
+}
+.col-5 {
+  position: relative;
+  bottom: 55px;
+  left: 360px;
+  padding: 10px;
+  color: white;
+}
