@@ -17,7 +17,7 @@ body {
   border: 2px solid white;
 }
 
-h1 {
+.city {
   color: white;
   font-family: "Courgette", cursive;
 }
