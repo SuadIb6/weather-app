@@ -53,3 +53,9 @@ body {
   padding: 10px;
   color: white;
 }
+footer {
+  font-family: "Cookie", cursive;
+  font-size: 35px;
+  text-align: center;
+  color: white;
+}
